@@ -1,0 +1,4 @@
+	skill_1 - git_bash
+	skill_2 - java_script
+	skill_3 - postman
+	skill_4 - SQL
