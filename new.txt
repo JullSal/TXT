@@ -1,0 +1,5 @@
+	first Name - Julia
+        second Name - Salnikova
+        age - 27
+        pets - no
+        salary - 400$
