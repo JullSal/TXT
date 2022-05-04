@@ -1,0 +1,8 @@
+ID: 1
+Title: Button 'Play' runs into button 'Pause'
+Environment: Windows 10 x64, Google Chrome v. 100.0.4896.127
+Priority: Medium
+Severity: Major
+Description: STR: 1. Open music.player EXR: 3 buttons play, pause, stop located next to each other Result: Button 'Play' runs into button 'Pause' 
+Attachment: screenshot.png
+Author: Salnikova J.
